@@ -16,4 +16,7 @@ export class Cadastro {
 
     }
 
+    salvar(JogoSalvar: Jogo){
+        console.log(JogoSalvar);
+    }
 }
